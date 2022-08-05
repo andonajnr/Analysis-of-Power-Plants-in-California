@@ -1,0 +1,9 @@
+1. kaggle.com/datasets/la-times/california-electricity-capacity
+2. https://stackoverflow.com/questions/49608656/saving-a-dataframe-to-csv-file-python
+3. https://seaborn.pydata.org/generated/seaborn.lineplot.html
+4. https://seaborn.pydata.org/generated/seaborn.pointplot.html
+5. https://seaborn.pydata.org/generated/seaborn.barplot.html#seaborn.barplot
+6. https://stackoverflow.com/questions/38936187/convert-an-int-to-time-strange-values
+7. https://stackoverflow.com/questions/49997934/change-color-of-specific-ticks-at-plot-with-matplotlib
+8. https://stackoverflow.com/questions/27898830/python-how-to-change-autopct-text-color-to-be-white-in-a-pie-chart
+9.https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
